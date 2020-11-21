@@ -10,3 +10,4 @@
 ![](https://img.shields.io/badge/Developer-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Developer-Python-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=2bbc8a)
