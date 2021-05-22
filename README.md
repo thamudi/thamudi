@@ -8,10 +8,21 @@ ___
 
 ## Contact me
 
-[![thamudi-linked-in](./images/linkedin.svg)](www.linkedin.com/in/tamim-hamoudi)
-[![thamudi-linked-in](./images/google-plus.svg)](tamim.hamoudi@gmail.com)
+Connect with me on Linked in
+
+[![thamudi-linked-in](./images/linkedin.svg)](https://www.linkedin.com/in/tamim-hamoudi) 
+
+ Send me an email
+
+[![thamudi-linked-in](./images/google-plus.svg)](https://tamim.hamoudi@gmail.com)
+
+I have no idea what to do with this yet!
+
 [![thamudi-linked-in](./images/dev.svg)](https://dev.to/thamudi)
-[![thamudi-linked-in](./images/twitter.svg)](https://twitter.com/thamudi93)
+
+Or Follow me on twitter
+
+[![thamudi-linked-in](./images/twitter.svg)](https://twitter.com/thamudi93) 
 
 ___
 
