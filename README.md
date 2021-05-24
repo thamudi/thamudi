@@ -4,31 +4,20 @@
 
 ___
 
-![thamudi-visitors](https://visitor-badge.glitch.me/badge?flat=true&page_id=thamudi.thamudi)
+## About me:
 
-## Contact me
+A Web Software Developer turned Instructor. I love changing people's lives and teaching them how to code.
 
-Connect with me on Linked in
+That Doesn't mean that I stopped developing things. If anything, now, I am more excited on working on thing than ever.
 
-[![thamudi-linked-in](./images/linkedin.svg)](https://www.linkedin.com/in/tamim-hamoudi) 
-
- Send me an email
-
-[![thamudi-linked-in](./images/google-plus.svg)](https://tamim.hamoudi@gmail.com)
-
-I have no idea what to do with this yet!
-
-[![thamudi-linked-in](./images/dev.svg)](https://dev.to/thamudi)
-
-Or Follow me on twitter
-
-[![thamudi-linked-in](./images/twitter.svg)](https://twitter.com/thamudi93) 
+That's it! If you want to know anything/ work on a project, hit me up!
 
 ___
 
 ## My Github stats
 
 ![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=thamudi&show_icons=true&title_color=256a9f&text_color=f5f5f5&bg_color=1a1c1d&icon_color=256a9f&hide_border=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamudi&layout=compact&title_color=256a9f&text_color=f5f5f5&bg_color=1a1c1d&icon_color=256a9f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
@@ -44,6 +33,16 @@ ___
 ![express-instructor](https://img.shields.io/badge/Instructor-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=white)
 
 ___
+
+## My "Current" Projects
+
+| Project | Description | Stars :star: | Issues ❌ |
+| ------- | ----------- | ------------ | --------- |
+| [Psychonauts API](https://github.com/thamudi/psychonauts-api) | A tribute API to the cult classic game Psychonauts | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-api) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-api) |
+| [psychonauts node web scrapper](https://github.com/thamudi/psychonauts-node-web-scrapper) | A Web scrapper for psychonauts wiki to get data for my API | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-node-web-scrapper) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-node-web-scrapper) |
+
+___
+
 
 ## Languages I Love
 
@@ -68,3 +67,14 @@ ___
 ![react-developer](https://img.shields.io/badge/Developer-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61dafb)
 
 ![django-developer](https://img.shields.io/badge/Developer-Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
+
+___
+
+![thamudi-visitors](https://visitor-badge.glitch.me/badge?flat=true&page_id=thamudi.thamudi)
+
+## Contact me
+
+[![thamudi-linked-in](./images/linkedin.svg)](https://www.linkedin.com/in/tamim-hamoudi)
+[![thamudi-linked-in](./images/google-plus.svg)](https://tamim.hamoudi@gmail.com)
+[![thamudi-linked-in](./images/dev.svg)](https://dev.to/thamudi)
+[![thamudi-linked-in](./images/twitter.svg)](https://twitter.com/thamudi93) 
