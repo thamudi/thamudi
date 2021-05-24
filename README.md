@@ -4,7 +4,7 @@
 
 ___
 
-## About me:
+## About me
 
 A Web Software Developer turned Instructor. I love changing people's lives and teaching them how to code.
 
@@ -16,9 +16,9 @@ ___
 
 ## My Github stats
 
-![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=thamudi&show_icons=true&title_color=256a9f&text_color=f5f5f5&bg_color=1a1c1d&icon_color=256a9f&hide_border=true)
+![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=thamudi&show_icons=true&title_color=0b76b8&text_color=f5f5f5&bg_color=1a1c1d&icon_color=0b76b8&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamudi&layout=compact&title_color=256a9f&text_color=f5f5f5&bg_color=1a1c1d&icon_color=256a9f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamudi&layout=compact&title_color=0b76b8&text_color=f5f5f5&bg_color=1a1c1d&icon_color=0b76b8&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ___
 
@@ -42,7 +42,6 @@ ___
 | [psychonauts node web scrapper](https://github.com/thamudi/psychonauts-node-web-scrapper) | A Web scrapper for psychonauts wiki to get data for my API | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-node-web-scrapper) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-node-web-scrapper) |
 
 ___
-
 
 ## Languages I Love
 
@@ -77,4 +76,4 @@ ___
 [![thamudi-linked-in](./images/linkedin.svg)](https://www.linkedin.com/in/tamim-hamoudi)
 [![thamudi-linked-in](./images/google-plus.svg)](https://tamim.hamoudi@gmail.com)
 [![thamudi-linked-in](./images/dev.svg)](https://dev.to/thamudi)
-[![thamudi-linked-in](./images/twitter.svg)](https://twitter.com/thamudi93) 
+[![thamudi-linked-in](./images/twitter.svg)](https://twitter.com/thamudi93)
