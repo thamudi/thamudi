@@ -59,9 +59,9 @@ ___
 
 ## Technologies I Develop with
 
-![node](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=white&color=025800)
+![node](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=nodejs&logoColor=white&color=025800)
 
-![NPM](https://img.shields.io/badge/Developer-npm-informational?style=flat&logo=npm&logoColor=white&color=025800)
+![NPM](https://img.shields.io/badge/Developer-npm-informational?style=flat&logo=npm&logoColor=white&color=d94343)
 
 ![express](https://img.shields.io/badge/Developer-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=white)
 
