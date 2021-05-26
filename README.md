@@ -53,19 +53,25 @@ ___
 
 ![css-developer](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=264bdc)
 
-![python-developer](https://img.shields.io/badge/Developer-Python-informational?style=flat&logo=pyhton-wizardry&logoColor=white&color=004daa)
+![python-developer](https://img.shields.io/badge/Developer-Python-informational?style=flat&logo=python-wizardry&logoColor=white&color=004daa)
 
 ___
 
 ## Technologies I Develop with
 
-![node-developer](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.jslogoColor=white&color=025800)
+![node](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=node.js&logoColor=white&color=025800)
 
-![express-developer](https://img.shields.io/badge/Developer-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=white)
+![NPM](https://img.shields.io/badge/Developer-npm-informational?style=flat&logo=npm&logoColor=white&color=025800)
 
-![react-developer](https://img.shields.io/badge/Developer-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61dafb)
+![express](https://img.shields.io/badge/Developer-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=white)
 
-![django-developer](https://img.shields.io/badge/Developer-Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
+![react](https://img.shields.io/badge/Developer-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61dafb)
+
+![django](https://img.shields.io/badge/Developer-Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
+
+![MongoDB](https://img.shields.io/badge/Developer-Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=13aa52)
+
+![Postgresql](https://img.shields.io/badge/Developer-postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=2f6792)
 
 ___
 
