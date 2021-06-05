@@ -26,9 +26,15 @@ ___
 
 | Project | Description | Stars :star: | Issues ❌ |
 | ------- | ----------- | ------------ | --------- |
-| [Psychonauts API](https://github.com/thamudi/psychonauts-api) | A tribute API to the cult classic game Psychonauts | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-api) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-api) |
 | [psychonauts node web scrapper](https://github.com/thamudi/psychonauts-node-web-scrapper) | A Web scrapper for psychonauts wiki to get data for my API | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-node-web-scrapper) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-node-web-scrapper) |
 
+___
+
+## My Open Source Projects
+
+| Project | Description | Stars :star: | Issues ❌ |
+| ------- | ----------- | ------------ | --------- |
+| [Psychonauts API](https://github.com/thamudi/psychonauts-api) | A tribute API to the cult classic game Psychonauts | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-api) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-api) |
 ___
 
 ## Topics I Teach
