@@ -26,7 +26,7 @@ ___
 
 | Project | Description | Stars :star: | Issues ❌ |
 | ------- | ----------- | ------------ | --------- |
-| [psychonauts node web scrapper](https://github.com/thamudi/psychonauts-node-web-scrapper) | A Web scrapper for psychonauts wiki to get data for my API | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-node-web-scrapper) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-node-web-scrapper) |
+| [brave-miner](https://github.com/thamudi/brave-miner) | A Web scrapper for psychonauts wiki to get data for my API | ![GitHub stars](https://img.shields.io/github/stars/thamudi/brave-miner) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/brave-miner) |
 
 ___
 
