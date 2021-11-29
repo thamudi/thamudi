@@ -26,7 +26,8 @@ ___
 
 | Project | Description | Stars :star: | Issues ❌ |
 | ------- | ----------- | ------------ | --------- |
-| [brave-miner](https://github.com/thamudi/brave-miner) | A Web scrapper for psychonauts wiki to get data for my API | ![GitHub stars](https://img.shields.io/github/stars/thamudi/brave-miner) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/brave-miner) |
+| [brave-miner](https://github.com/thamudi/brave-miner) | A chrome extention for mining BAT tokens from the notification | ![GitHub stars](https://img.shields.io/github/stars/thamudi/brave-miner) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/brave-miner) |
+| [Linked in Scrapper API](https://github.com/thamudi/linked-in-scrapper-api) | An API web scrapper for getting Linked in jobs  | ![GitHub stars](https://img.shields.io/github/stars/thamudi/linked-in-scrapper-api) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/linked-in-scrapper-api) |
 
 ___
 
