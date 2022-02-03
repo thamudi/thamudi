@@ -62,7 +62,7 @@ ___
 ![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![Typescript](https://img.shields.io/badge/Typescript-D79A1.svg?style=for-the-badge&logo=typescript&logoColor=white&color=4479A1)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
 ![Postgresql](https://img.shields.io/badge/Postgresql-%4479A1.svg?style=for-the-badge&logo=Postgresql&logoColor=white&color=4479A1)
 ![Mongodb](https://img.shields.io/badge/mongodb-%4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=13aa52)
