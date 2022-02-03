@@ -1,16 +1,27 @@
-# Thamudi
-
-![header img here](./images/header.png)
-
+# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+My name is **Tamim Hamoudi**, a software developer with 7 years of experence. Open source Software advocate and a Teacher at heart.
+I enjoy learning new technologies and sharing my experiences to new and passionate developers.
 ___
 
-## About me
+My hobbies/ interests are:
+- Listening to music
+- Programming
+- Cooking food
+- Coffee making
+- Open-Source Contribution
+- Problem Solving
+___
 
-A Web Software Developer turned Instructor. I love changing people's lives and teaching them how to code.
-
-That Doesn't mean that I stopped developing things. If anything, now, I am more excited on working on thing than ever.
-
-That's it! If you want to know anything/ work on a project, hit me up!
+![thamudi-visitors](https://visitor-badge.glitch.me/badge?flat=true&page_id=thamudi.thamudi)
+<a href="https://www.linkedin.com/in/tamim-hamoudi/">
+  <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
+</a>
+<a href="https://twitter.com/thamudi93">
+  <img align="left" alt="Nirjas Jakilim | Twitter" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/twitter.svg" />
+</a>
+<a href="https://open.spotify.com/user/31zqgtjm2uvjsbhrzwam2a5lfj2a?si=ef787218b6114edf">
+  <img align="left" alt="Nirzak's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
+</a>
 
 ___
 
@@ -40,53 +51,34 @@ ___
 
 ## Topics I Teach
 
-![node-instructor](https://img.shields.io/badge/Instructor-Node-informational?style=flat&logo=node.jslogoColor=white&color=025800)
-
-![js-instructor](https://img.shields.io/badge/Instructor-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
-
-![react-instructor](https://img.shields.io/badge/Instructor-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61dafb)
-
-![express-instructor](https://img.shields.io/badge/Instructor-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=white)
+![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express-%FF2D20.svg?style=for-the-badge&logo=express&logoColor=white&color=black)
 
 ___
 
-## Languages I Love
+## ⚙️ Technologies & Tools
+![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
+![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
+![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
+![Typescript](https://img.shields.io/badge/Typescript-D79A1.svg?style=for-the-badge&logo=typescript&logoColor=white&color=4479A1)
+![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![Postgresql](https://img.shields.io/badge/Postgresql-%4479A1.svg?style=for-the-badge&logo=Postgresql&logoColor=white&color=4479A1)
+![Mongodb](https://img.shields.io/badge/mongodb-%4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=13aa52)
 
-![js-developer](https://img.shields.io/badge/Developer-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f7df1c)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express-%FF2D20.svg?style=for-the-badge&logo=express&logoColor=white&color=black)
+![Django](https://img.shields.io/badge/django-%FF2D20.svg?style=for-the-badge&logo=django&logoColor=white&color=0c4b33)
+![Strapi](https://img.shields.io/badge/strapi-%FF2D20.svg?style=for-the-badge&logo=strapi&logoColor=white&color=121180)
+![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
 
-![ts-developer](https://img.shields.io/badge/Developer-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2f74c0)
 
-![html-developer](https://img.shields.io/badge/Developer-HTML-informational?style=flat&logo=html5&logoColor=white&color=dc4a27)
 
-![css-developer](https://img.shields.io/badge/Developer-CSS-informational?style=flat&logo=css-wizardry&logoColor=white&color=264bdc)
+![Manjaro](https://img.shields.io/badge/manjaro-0078D6.svg?style=for-the-badge&logo=manjaro&logoColor=black&color=35c25d)
+![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![KDE](https://img.shields.io/badge/kde-%FCC624.svg?style=for-the-badge&logo=kde&logoColor=white&color=1c94eb)
+![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 
-![python-developer](https://img.shields.io/badge/Developer-Python-informational?style=flat&logo=python-wizardry&logoColor=white&color=004daa)
 
-___
-
-## Technologies I Develop with
-
-![node](https://img.shields.io/badge/Developer-Node-informational?style=flat&logo=nodejs&logoColor=white&color=025800)
-
-![NPM](https://img.shields.io/badge/Developer-npm-informational?style=flat&logo=npm&logoColor=white&color=d94343)
-
-![express](https://img.shields.io/badge/Developer-ExpressJS-informational?style=flat&logo=express&logoColor=white&color=white)
-
-![react](https://img.shields.io/badge/Developer-ReactJS-informational?style=flat&logo=react&logoColor=white&color=61dafb)
-
-![django](https://img.shields.io/badge/Developer-Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
-
-![MongoDB](https://img.shields.io/badge/Developer-Mongo-informational?style=flat&logo=mongodb&logoColor=white&color=13aa52)
-
-![Postgresql](https://img.shields.io/badge/Developer-postgres-informational?style=flat&logo=Postgresql&logoColor=white&color=2f6792)
-
-___
-
-![thamudi-visitors](https://visitor-badge.glitch.me/badge?flat=true&page_id=thamudi.thamudi)
-
-## Contact me
-
-[![thamudi-linked-in](./images/linkedin.svg)](https://www.linkedin.com/in/tamim-hamoudi)
-[![thamudi-linked-in](./images/google-plus.svg)](https://tamim.hamoudi@gmail.com)
-[![thamudi-linked-in](./images/dev.svg)](https://dev.to/thamudi)
-[![thamudi-linked-in](./images/twitter.svg)](https://twitter.com/thamudi93)
