@@ -4,7 +4,7 @@ I enjoy learning new technologies and sharing my experiences to new and passiona
 ___
 
 My hobbies/ interests are:
-- Listening to music
+- Exploring new music
 - Programming
 - Cooking food
 - Coffee making
