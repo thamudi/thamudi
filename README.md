@@ -3,13 +3,16 @@ My name is **Tamim Hamoudi**, a software developer with 7 years of experence. Op
 I enjoy learning new technologies and sharing my experiences to new and passionate developers.
 ___
 
-My hobbies/ interests are:
+My hobbies/ interests and skills are:
 - Exploring new music
 - Programming
 - Cooking food
 - Coffee making
 - Open-Source Contribution
 - Problem Solving
+- Public speaking
+- Project Designing
+- Automation
 ___
 
 ![thamudi-visitors](https://visitor-badge.glitch.me/badge?flat=true&page_id=thamudi.thamudi)
@@ -65,7 +68,7 @@ ___
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%777BB4.svg?style=for-the-badge&logo=php&logoColor=white&color=777BB4)
+![BASH](https://img.shields.io/badge/bash-%2320232a.svg?style=for-the-badge&logo=bash&logoColor=black&color=white)
 ![Postgresql](https://img.shields.io/badge/Postgresql-%4479A1.svg?style=for-the-badge&logo=Postgresql&logoColor=white&color=4479A1)
 ![Mongodb](https://img.shields.io/badge/mongodb-%4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=13aa52)
 
@@ -73,16 +76,18 @@ ___
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=222222&logo=Nuxt.js&logoColor=00DC82&label=)
 ![Express](https://img.shields.io/badge/express-%FF2D20.svg?style=for-the-badge&logo=express&logoColor=white&color=black)
-![Django](https://img.shields.io/badge/django-%FF2D20.svg?style=for-the-badge&logo=django&logoColor=white&color=0c4b33)
+![NestJS](https://img.shields.io/badge/nestjs-%FF2D20.svg?style=for-the-badge&logo=nestjs&logoColor=e0234e&color=black)
 ![Strapi](https://img.shields.io/badge/strapi-%FF2D20.svg?style=for-the-badge&logo=strapi&logoColor=white&color=121180)
-![LARAVEL](https://img.shields.io/badge/laravel-%FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20)
 
-
+![kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=26de6&color=c8e8eb)
+![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ec&color=0a3f8c)
+![Helm](https://img.shields.io/badge/helm-%2320232a.svg?style=for-the-badge&logo=helm&logoColor=0f1689&color=white)
 
 ![Manjaro](https://img.shields.io/badge/manjaro-0078D6.svg?style=for-the-badge&logo=manjaro&logoColor=black&color=35c25d)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![KDE](https://img.shields.io/badge/kde-%FCC624.svg?style=for-the-badge&logo=kde&logoColor=white&color=1c94eb)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
-
+![lens](https://img.shields.io/badge/lens-%2320232a.svg?style=for-the-badge&logo=lens&logoColor=%2361DAFB)
+![vim](https://img.shields.io/badge/vim-%2320232a.svg?style=for-the-badge&logo=vim&logoColor=199834&color=cccccc)
 
