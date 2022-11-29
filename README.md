@@ -83,8 +83,9 @@ ___
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ec&color=0a3f8c)
 ![Helm](https://img.shields.io/badge/helm-%2320232a.svg?style=for-the-badge&logo=helm&logoColor=0f1689&color=white)
 
-![Manjaro](https://img.shields.io/badge/manjaro-0078D6.svg?style=for-the-badge&logo=manjaro&logoColor=black&color=35c25d)
+![Windows](https://img.shields.io/badge/windwos-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white&color=0078d4)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
+![Manjaro](https://img.shields.io/badge/manjaro-0078D6.svg?style=for-the-badge&logo=manjaro&logoColor=black&color=35c25d)
 ![KDE](https://img.shields.io/badge/kde-%FCC624.svg?style=for-the-badge&logo=kde&logoColor=white&color=1c94eb)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
