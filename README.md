@@ -15,7 +15,6 @@ My hobbies/ interests and skills are:
 - Automation
 ___
 
-![thamudi-visitors](https://visitor-badge.glitch.me/badge?flat=true&page_id=thamudi.thamudi)
 <a href="https://www.linkedin.com/in/tamim-hamoudi/">
   <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
