@@ -15,6 +15,8 @@ My hobbies/ interests and skills are:
 - Automation
 ___
 
+## Find me here
+
 <a href="https://www.linkedin.com/in/tamim-hamoudi/">
   <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
 </a>
@@ -24,6 +26,7 @@ ___
 <a href="https://open.spotify.com/user/31zqgtjm2uvjsbhrzwam2a5lfj2a?si=ef787218b6114edf">
   <img align="left" alt="Nirzak's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
 </a>
+</br>
 
 ___
 
