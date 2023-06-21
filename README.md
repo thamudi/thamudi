@@ -4,29 +4,27 @@ I enjoy learning new technologies and sharing my experiences to new and passiona
 ___
 
 My hobbies/ interests and skills are:
-- Exploring new music
-- Programming
-- Food Cooking
-- Coffee making
-- Contributing to open source software
-- Problem Solving
-- Public speaking
-- Project Designing
-- Automation
+- Exploring new music 🎧
+- Programming 👨‍💻
+- Cooking 🍚
+- Coffee making ☕
+- Coffee ☕🍵
+- Contributing to open source software 😎
+- Problem Solving 🔎
+- Public speaking 📢
+- Project Management 📊
+- Design Driven Solutions 🖼️
+- Automation 👾
 ___
 
-## Find me here
+## Find me on
 
-<a href="https://www.linkedin.com/in/tamim-hamoudi/">
-  <img align="left" alt="Nirzak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/thamudi93">
-  <img align="left" alt="Nirjas Jakilim | Twitter" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/twitter.svg" />
-</a>
-<a href="https://open.spotify.com/user/31zqgtjm2uvjsbhrzwam2a5lfj2a?si=ef787218b6114edf">
-  <img align="left" alt="Nirzak's Spotify" width="22px" src="https://raw.githubusercontent.com/nirzak/nirzak/main/Assets/spotify.svg" />
-</a>
-</br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamim-hamoudi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/thamudi93)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31zqgtjm2uvjsbhrzwam2a5lfj2a?si=ef787218b6114edf)
+[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thamudi)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thamudi)
+[![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/thamudi)
 
 ___
 
@@ -71,12 +69,12 @@ ___
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Postgresql](https://img.shields.io/badge/Postgresql-%4479A1.svg?style=for-the-badge&logo=Postgresql&logoColor=white&color=4479A1)
-![Mongodb](https://img.shields.io/badge/mongodb-%4479A1.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=13aa52)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -90,10 +88,12 @@ ___
 ![kubernetes](https://img.shields.io/badge/kubernetes-%2320232a.svg?style=for-the-badge&logo=kubernetes&logoColor=26de6&color=c8e8eb)
 ![Docker](https://img.shields.io/badge/docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=2496ec&color=0a3f8c)
 ![Helm](https://img.shields.io/badge/helm-%2320232a.svg?style=for-the-badge&logo=helm&logoColor=0f1689&color=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&color=007ACC)
 ![lens](https://img.shields.io/badge/lens-%2320232a.svg?style=for-the-badge&logo=lens&logoColor=%2361DAFB)
 ![vim](https://img.shields.io/badge/vim-%2320232a.svg?style=for-the-badge&logo=vim&logoColor=199834&color=cccccc)
