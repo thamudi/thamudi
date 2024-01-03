@@ -2,7 +2,9 @@
 My name is **Tamim Hamoudi**, a software developer with 7 years of experence. Open source Software advocate and a Teacher at heart.
 I enjoy learning new technologies and sharing my experiences to new and passionate developers.
 ___
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 
+___
 My hobbies/ interests and skills are:
 - Exploring new music 🎧
 - Programming 👨‍💻
