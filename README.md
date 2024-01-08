@@ -3,8 +3,9 @@ My name is **Tamim Hamoudi**, a software developer with 7 years of experience. O
 I enjoy learning new technologies and sharing my experiences with people in simialr intrest 😊.
 ___
 [![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+[![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://techforpalestine.org/learn-more)
+[![ReadMeSupportPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg)](https://techforpalestine.org/learn-more)
 ![Free palinstine ](https://images.squarespace-cdn.com/content/v1/653e9c43cbc63e5557d8b5c7/8ab3bd4f-7ef2-4fa4-b791-e5e4d57cb5e0/Screenshot+2023-10-30+at+3.49.14+PM.png "Title")
-[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
 ___
 My hobbies/ interests and skills are:
 - Listening to good music ✨🎧
