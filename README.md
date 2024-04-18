@@ -36,15 +36,14 @@ ___
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamudi&title_color=1D57B9&text_color=f5f5f5&bg_color=000000&icon_color=1D57B9&hide_border=true&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=thamudi&layout=compact&theme=transparent&include_all_commits=false&count_private=true&show_icons=true)
+![Thamudis' Stats](https://github-readme-stats.vercel.app/api?username=thamudi&layout=compact&theme=codeSTACKr&bg_color=000118&include_all_commits=false&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamudi&theme=transparent&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thamudi&theme=codeSTACKr&bg_color=000118&include_all_commits=false&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thamudi&theme=transparent&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thamudi&theme=elegant&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=thamudi&theme=onestar)
-
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=thamudi&theme=algolia)
 
 ___
 
