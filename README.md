@@ -20,7 +20,6 @@ ___
 | ------- | ----------- | ------------ | --------- |
 | [Khalid Komics](https://github.com/thamudi/khalidkomics-nuxt) | A nuxt3 based website for showcasing comics for the Jordanian Artist Khalid Nahar | ![GitHub stars](https://img.shields.io/github/stars/thamudi/khalidkomics-nuxt) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/khalidkomics-nuxt) |
 | [Psychonauts API](https://github.com/thamudi/psychonauts-api) | A tribute API to the cult classic game Psychonauts | ![GitHub stars](https://img.shields.io/github/stars/thamudi/psychonauts-api) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/psychonauts-api) |
-| [My Dot Files](https://github.com/thamudi/my-dot-files) | Dot files that I configured for my distro | ![GitHub stars](https://img.shields.io/github/stars/thamudi/my-dot-files) | ![GitHub Issues](https://img.shields.io/github/issues/thamudi/my-dot-files) |
 
 ___
 
